@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: myyobakunteinir
-        image: onstant8/app:latest
+        image: onstant8/myapp
         resources:
           limits:
             memory: "128Mi"
